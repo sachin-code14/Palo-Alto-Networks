@@ -20,7 +20,7 @@ What indicators highlight potential employee disengagement?
 
 3- Dashboard Preview
 
-(Add your dashboard screenshot here)
+(https://github.com/sachin-code14/Palo-Alto-Networks/blob/main/Screenshot%202026-07-17%20110521.png)
 
 
 4- Dashboard Features
